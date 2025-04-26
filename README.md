@@ -1,0 +1,1 @@
+In this project, I completed the titanic Kaggle competition using Python. I created a machine learning model to predict if people survived the crash based on information such as gender, age, cost of ticket, and ticket class (i.e. first class, second class, third class).
